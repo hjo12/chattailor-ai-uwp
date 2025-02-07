@@ -5,7 +5,7 @@ A C# desktop application using the Universal Windows Platform (UWP), used to int
 [![.NET CI Build](https://github.com/hjohnson12/chattailor-ai/actions/workflows/main.yml/badge.svg)](https://github.com/hjohnson12/chattailor-ai/actions/workflows/main.yml)
 
 > [!NOTE]  
-> A WinUI3 .NET8 solution is in the works to enable use of Win32 APIs and less restrictions compared to UWP
+> This project will no longer be maintained, instead future updates will be added to the WinUI3 solution with .NET8 [here](https://github.com/hjo12/chattailor-ai)
 
 ## Features
 
